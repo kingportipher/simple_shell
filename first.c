@@ -8,7 +8,7 @@
 
 int main(void)
 {
-	printv("Hello shell project");
+	printf("Hello shell project");
 
 	return (0);
 }
